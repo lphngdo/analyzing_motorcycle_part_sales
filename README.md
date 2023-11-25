@@ -11,6 +11,6 @@
 >
 >Reporting
 >
->**_Techniques:_**
+>**_Technologies:_**
 >
 >PostgreSQL | SQL
